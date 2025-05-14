@@ -1,0 +1,12 @@
+.nav-body{
+    width: 100%;
+    background-color: chartreuse;
+  }
+  .nav-items{
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+  .brand {
+    padding-left: 15px;
+  }
